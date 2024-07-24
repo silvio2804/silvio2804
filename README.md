@@ -30,6 +30,22 @@ My heroes and source of **inspiration** are Cristiano Ronaldo ⚽ and Muhammad A
 ### OS 
 [![My Skills](https://skillicons.dev/icons?i=linux,redhat&theme=light)](https://skillicons.dev) 
 
+## Cybersecurity
+<br>
+
+![](https://img.shields.io/badge/Cryptography-DES-informational?style=flat&logo=DES&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-AES-informational?style=flat&logo=AES&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-RSA-informational?style=flat&logo=RSA&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-MAC-informational?style=flat&logo=MAC&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-HMAC-informational?style=flat&logo=HMAC&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-Hashing-informational?style=flat&logo=Hashing&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-Digital_Signatures-informational?style=flat&logo=Digital_Signatures&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-TLS-informational?style=flat&logo=TLS&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Linux-ACL-informational?style=flat&logo=ip_tables&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/VM-informational?style=flat&logo=VirtualBox&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/VM-informational?style=flat&logo=GNS3&logoColor=white&color=539bf5)
+<br>
+
 ### Analyzing
 [![My Skills](https://skillicons.dev/icons?i=prometheus,grafana&theme=light)](https://skillicons.dev) 
 
