@@ -7,7 +7,7 @@ Hi all, I'm Silvio Venturino. I'm a master degree **cybersecurity** student at U
 * Question and answers platform using a *MongoDB database*, obtained by a cleaning process of a dataset.
 * Iot Security project implementing a C++ client on *ESP32 Board* and a *MQTT* server using TLS.
 
-Besides IT, my I like:
+Besides IT, I like:
 * reading a lot :books:, watching anime 🎦, listening rap/pop music 🎵 and travelling 🗺️;
 * I love dogs and all animals in general :dog:
 * eating italian food :it:
