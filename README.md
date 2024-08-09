@@ -12,7 +12,7 @@ Besides IT, I like:
 * I love dogs and all animals in general :dog:
 * eating italian food :it:
 
-My heroes and source of **inspiration** are Cristiano Ronaldo ⚽ and Muhammad Ali 🥊 and Snowden 💻.
+My heroes and source of **inspiration** are Cristiano Ronaldo ⚽, Muhammad Ali 🥊 and Snowden 💻.
 
 ## My Skills :mag_right:
 
